@@ -29,13 +29,13 @@ const Theme = () => {
   });
   return (
     <div className="section-theme">
-      <label className="switch1">
+      <label className="dark-mode-checkbox">
         <input
           type="checkbox"
           checked={themeSign}
           onChange={() => setThemeSign(!themeSign)}
         />
-        <span className="slider1"></span>
+        <span className="theme-changer"></span>
       </label>
     </div>
   );

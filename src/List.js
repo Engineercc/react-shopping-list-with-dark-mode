@@ -37,7 +37,7 @@ const List = ({ items, removeItem, editItem, completedItem }) => {
                 {<FaTrash />}
               </button>
 
-              <label className="switch2">
+              <label className="item-completed">
                 <input
                   type="checkbox"
                   checked={completed}
