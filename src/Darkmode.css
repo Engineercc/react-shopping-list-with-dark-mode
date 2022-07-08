@@ -1,0 +1,30 @@
+body.dark {
+    background-color: #212940;
+    font-weight: 500;
+}
+
+.dark h3,
+.dark p {
+    color: #fff !important;
+}
+
+.dark .section-center {
+    box-shadow: 0 5px 15px rgb(104 104 104);
+}
+
+.dark .section-center:hover {
+    box-shadow: 0 5px 15px #ffffff80;
+}
+
+.dark .grocery-item {
+    box-shadow: 0 0 8px #fff;
+}
+
+.dark .item-checked {
+    background-color: #0071ab !important;
+}
+
+
+.dark .grocery-item:hover {
+    background-color: #2d87c8;
+}
