@@ -11,3 +11,4 @@
 ### Steps
 Just run this comment: npm install && npm start  :white_check_mark:
 
+live version: https://shopping-list-with-dark-mode.netlify.app/
